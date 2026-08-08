@@ -34,3 +34,8 @@ python converter.py --url "https://www.youtube.com/watch?v=VIDEO_ID" --format mp
 ```
 
 Outputs will be saved inside the folder named `export mp3 or mp4`.
+
+
+
+Download exe link:
+https://drive.google.com/file/d/1k8eNj4jhuJAXDxVxx6ARCqS1pC7UcR_k/view?usp=sharing
