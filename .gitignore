@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+build/
+dist/
+"export mp3 or mp4"/
+.vscode/
+*.exe
+*.log

@@ -1,0 +1,1 @@
+dist/portable_bundle/*.exe filter=lfs diff=lfs merge=lfs -text
